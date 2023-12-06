@@ -16,7 +16,7 @@
       "name": "[parameters('servers_devcc01_name')]",
       "location": "canadacentral",
       "tags": {
-        "displayName": "devcc01"
+        "displayName": "prodcc01"
       },
       "kind": "v12.0",
       "properties": {
