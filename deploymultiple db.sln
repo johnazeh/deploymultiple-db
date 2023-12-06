@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "deploymultiple db", "deploymultiple db\deploymultiple db.deployproj", "{BAB9CABB-7F82-4032-9DA9-9273E590C561}"
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "deploymultiple dev db", "deploymultiple db\deploymultiple dev db.deployproj", "{BAB9CABB-7F82-4032-9DA9-9273E590C561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
